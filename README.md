@@ -1,4 +1,4 @@
-# hello-world
+# Hello world!
 Testing playground
 
-Good day to you, sir!
+Good day to you!
